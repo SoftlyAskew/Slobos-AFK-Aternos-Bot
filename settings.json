@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Slobot00",
     "password": "",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "bernmanaloto.aternos.me",
@@ -31,7 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "[ignore this]"
+        "I'm a regular player",
+        "Subscribe to Slobos!",
+        "I like to play Minecraft!"
       ]
     },
     "chat-log": true,
@@ -63,7 +65,7 @@
     "console-commands": true
   },
   "combat": {
-    "attack-mobs": false,
+    "attack-mobs": true,
     "auto-eat": true
   },
   "beds": {
